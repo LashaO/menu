@@ -1,4 +1,4 @@
-A simple SPA for a tech savvy satskhobi (bakery)
+A simple SPA for a catering service menu.
 
 # Getting Started with Create React App
 
